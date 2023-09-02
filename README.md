@@ -1,0 +1,25 @@
+# @nharox/next-prettier-config
+
+Shared [Prettier v3](https://prettier.io/) config for [Next.js v13](https://nextjs.org/) projects.
+
+## Installation
+
+1. Install package as a dev dependency
+
+```bash
+npm install --save-dev @nharox/next-prettier-config
+```
+
+2. Update `package.json`
+
+```js
+{
+  // ...
+  "prettier": "@nharox/next-prettier-config"
+}
+```
+
+## Prettier Plugins
+
+- [@ianvs/prettier-plugin-sort-imports](https://github.com/ianvs/prettier-plugin-sort-imports)
+- [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)

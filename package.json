@@ -1,0 +1,19 @@
+{
+  "name": "@nharox/next-prettier-config",
+  "version": "1.0.0",
+  "author": "Dominik Gallitzendörfer <hello@nharox.com>",
+  "main": "./prettier-config.json",
+  "homepage": "https://github.com/nharox/next-prettier-config",
+  "repository": "https://github.com/nharox/next-prettier-config",
+  "license": "MIT",
+  "keywords": [
+    "next.js",
+    "prettier",
+    "prettier-config"
+  ],
+  "dependencies": {
+    "@ianvs/prettier-plugin-sort-imports": "^4.1.0",
+    "prettier": "^3.0.3",
+    "prettier-plugin-tailwindcss": "^0.5.4"
+  }
+}

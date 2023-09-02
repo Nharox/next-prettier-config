@@ -1,0 +1,20 @@
+{
+  "endOfLine": "lf",
+  "importOrder": [
+    "react",
+    "^next",
+    "<THIRD_PARTY_MODULES>",
+    "",
+    "^@",
+    "",
+    "^[./]"
+  ],
+  "plugins": [
+    "@ianvs/prettier-plugin-sort-imports",
+    "prettier-plugin-tailwindcss"
+  ],
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5"
+}
