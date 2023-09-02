@@ -1,6 +1,6 @@
 {
   "name": "@nharox/next-prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Dominik Gallitzendörfer <hello@nharox.com>",
   "main": "./prettier-config.json",
   "homepage": "https://github.com/nharox/next-prettier-config",

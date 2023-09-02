@@ -1,7 +1,8 @@
 {
   "endOfLine": "lf",
   "importOrder": [
-    "react",
+    "^react",
+    "react$",
     "^next",
     "<THIRD_PARTY_MODULES>",
     "",
