@@ -19,6 +19,18 @@ npm install --save-dev @nharox/next-prettier-config
 }
 ```
 
+3. Add the following script in your `package.json`
+
+```js
+{
+  // ...
+  "scripts": {
+    // ...
+    "format": "prettier --write \"**/*.{ts,tsx}\""
+  }
+}
+```
+
 ## Prettier Plugins
 
 - [@ianvs/prettier-plugin-sort-imports](https://github.com/ianvs/prettier-plugin-sort-imports)
